@@ -22,6 +22,6 @@
 .photo-gallery img:hover {
     transform: scale(1.05);
 }
-section {
+.section {
     padding-left: 8rem; /* or whatever value you prefer */
 }
